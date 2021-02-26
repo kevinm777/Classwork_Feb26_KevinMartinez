@@ -1,0 +1,1 @@
+// FizzBuzz Program in JS let number = 10; //10 < 10 ? if(number < 10) // false { console.log("I am here!!"); // do something } else if(number > 10) // false { console.log("I told you I am here!!"); // do something } else { console.log("You did not trust me!!!"); // do something }
